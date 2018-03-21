@@ -1,0 +1,14 @@
+.rectDiv {
+	border: 5px dotted blue;
+	background-color: lightblue;
+}
+
+.hideDiv
+{
+	display: none;
+}
+
+.showDiv
+{
+	display: block;
+}
